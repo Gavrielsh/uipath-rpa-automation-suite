@@ -1,0 +1,33 @@
+{
+  "DisplayName": "GetWorkItems",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "out_dtWI5Items",
+      "DisplayName": "out_dtWI5Items",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_AcmeLoginUrl",
+      "DisplayName": "in_AcmeLoginUrl",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "https://acme-test.uipath.com/login",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
